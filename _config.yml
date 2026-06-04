@@ -1,0 +1,17 @@
+title: Job Search Operating System
+description: "A structured, evidence-backed approach to career search: case files, scoring rubrics, artifact production, and a decision model under uncertainty."
+author: Chris Panlasigui
+
+theme: minima
+
+minima:
+  skin: classic
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

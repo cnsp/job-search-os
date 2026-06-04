@@ -2,6 +2,19 @@
 layout: default
 title: "From Job Applications to a Job Search Operating System"
 ---
+
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']],
+    processEscapes: true
+  },
+  options: { skipHtmlTags: ['script','noscript','style','textarea','pre'] }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
 # From Job Applications to a Job Search Operating System
 
 At first, the problem looked simple: apply to better jobs, faster.
